@@ -3,4 +3,4 @@
 ## Hướng dẫn
 Hướng dẫn trong file hướng dẫn kèm theo.
 
-**[Tải xuống]()**
+**[Tải xuống](https://github.com/haolem/CDVL/releases/tag/main-file)**
